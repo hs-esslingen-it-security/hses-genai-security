@@ -23,4 +23,5 @@ This custom GPT is publicly available on [ChatGPT](https://chatgpt.com/g/g-qPvRd
 
 In this folder, we present the different code snippets used for our evaluation.
 These code snippets are sorted by language. Each file name contains the vulnerability of focus and the folder sorts the vulnerabilities based on the presence or absence of these vulnerabilities.
+The ChatGPT prompts explicitly ask for the vulnerability in focus.
 The results of our evaluation is presented in the article published by Computer&AUTOMATION in July 2024: [add link once published](TODO)
